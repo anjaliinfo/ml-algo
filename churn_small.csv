@@ -1,0 +1,21 @@
+gender,SeniorCitizen,tenure,MonthlyCharges,Contract,PaymentMethod,Churn
+Female,0,1,29.85,Month-to-month,Electronic check,Yes
+Male,0,34,56.95,One year,Mailed check,No
+Male,0,2,53.85,Month-to-month,Mailed check,Yes
+Male,0,45,42.30,One year,Bank transfer,No
+Female,0,2,70.70,Month-to-month,Electronic check,Yes
+Female,0,8,99.65,Month-to-month,Credit card,Yes
+Male,0,22,89.10,One year,Bank transfer,No
+Female,0,10,29.75,Month-to-month,Electronic check,Yes
+Female,0,28,104.80,Two year,Credit card,No
+Male,0,62,56.15,Two year,Bank transfer,No
+Female,1,5,80.50,Month-to-month,Electronic check,Yes
+Male,0,40,65.20,One year,Credit card,No
+Female,0,15,49.95,Month-to-month,Mailed check,Yes
+Male,1,55,75.10,Two year,Bank transfer,No
+Female,0,3,90.30,Month-to-month,Electronic check,Yes
+Male,0,25,60.00,One year,Credit card,No
+Female,1,12,85.40,Month-to-month,Electronic check,Yes
+Male,0,48,45.25,Two year,Mailed check,No
+Female,0,6,78.90,Month-to-month,Credit card,Yes
+Male,0,30,58.60,One year,Bank transfer,No
