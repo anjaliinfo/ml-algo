@@ -12,8 +12,8 @@ Predict whether a customer will churn (leave) or not churn using a small dataset
 
 # Project Flow
 It uses 
-  Pandas
-  scikit-learn
+  Pandas,
+  scikit-learn,
   Logistic Regression
 
 
